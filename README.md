@@ -1,6 +1,6 @@
 Ders Zamanı Hesaplama Programı
 
-Bu program, kullanıcının girdiği iki farklı ders zamanını başlangıç ve bitiş alıp, bunları epoch zamanına çevirerek aralarındaki farkı hesaplar. Yani, dersin ne kadar sürdüğünü saniye ve dakika cinsinden öğrenebilirsin. 🚀
+Bu program, kullanıcının girdiği iki farklı ders zamanını başlangıç ve bitiş alıp, bunları epoch zamanına çevirerek aralarındaki farkı hesaplar. Yani, dersin ne kadar sürdüğünü saniye ve dakika cinsinden öğrenebilirsin.
 
 Nasıl Çalışıyor?
 
